@@ -37,7 +37,7 @@ public class LinkedStack<E> implements IStack<E> {
 
   @Override
   public List<E> asList() {
-    // TODO implement using an ArrayList preallocated with the right size
+    // TODO implement using an ArrayList.  Populate the ArrayList with the stack values, without deconstructing the stack!
     // TODO add any instance variable(s) required to support this
     return null;
   }
