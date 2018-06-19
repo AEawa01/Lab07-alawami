@@ -2,7 +2,7 @@
 
 # Team project
 
-Work in teams of two.
+Work in teams of two, optionally.
 
 # Objectives
 
@@ -32,11 +32,11 @@ Specifically:
 
 # Grading
 
-- 1 submission via GitHub
-- 2 completion of items marked TODO in `LinkedStack` and tests passing
-- 1 completion of `ReverseLines` and correct behavior
-- 1 written part
-  - 0.8 responses to the questions above
-  - 0.2 grammar, style, formatting
+- 8 submission via GitHub
+- 16 completion of items marked TODO in `LinkedStack` and tests passing
+- 8 completion of `ReverseLines` and correct behavior
+- 8 written part
+  - 6 responses to the questions above
+  - 2 grammar, style, formatting
 
-*5 points TOTAL*
+*40 points TOTAL*
